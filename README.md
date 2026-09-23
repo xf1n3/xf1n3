@@ -1,4 +1,5 @@
-## Hi there 👋
+## about
+16-year-old dev
 
 <!--
 **xf1n3/xf1n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
